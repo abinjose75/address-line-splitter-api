@@ -19,7 +19,7 @@ class AddressOutput(BaseModel):
 
 def split_address_equally(address: str) -> Dict[str, str]:
     """
-    Split address into 3 equally distributed lines based on character count.
+    Split addresses into 3 equally distributed lines based on character count.
     """
     # Clean up the address
     address = ' '.join(address.split())  # Normalize whitespace
