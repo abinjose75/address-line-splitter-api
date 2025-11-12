@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/address-string-to-line-convertor.iml" filepath="$PROJECT_DIR$/.idea/address-string-to-line-convertor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/address-line-splitter-api.iml" filepath="$PROJECT_DIR$/.idea/address-line-splitter-api.iml" />
     </modules>
   </component>
 </project>
